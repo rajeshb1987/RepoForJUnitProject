@@ -8,6 +8,14 @@ public class HomePageTest {
 	public void validateLogin() throws Exception
 	{
 		System.out.println("Inside method validateLogin()");
+		
+	}
+	
+	@Test
+	public void signUP() throws Exception
+	{
+		System.out.println("Inside method signUP()");
+		
 	}
 
 }
