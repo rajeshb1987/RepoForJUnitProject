@@ -17,5 +17,12 @@ public class HomePageTest {
 		System.out.println("Inside method signUP()");
 		
 	}
+	
+	@Test
+	public void signOut() throws Exception
+	{
+		System.out.println("Inside method signOut()");
+		
+	}
 
 }
